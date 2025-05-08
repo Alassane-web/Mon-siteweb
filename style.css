@@ -1,0 +1,50 @@
+*{
+    background-color:lightcyan;
+}
+h1,h4{
+    background-color:SEASHELL;
+}
+.class{
+    text-align: center;
+}
+.container{
+border:solid;
+border-radius:30px;
+background-color: seashell;
+margin: 30px;
+padding: 20px 1px 30px 1px;
+text-align: center;
+}
+img{
+background-color:lightslategray;
+padding:8px;
+border-radius:solid;
+margin:15px;
+}
+a{
+    background-color:lavender;
+    text-align:left;
+}
+input{
+    background-color:antiquewhite;
+}
+table{
+    background-color: aliceblue;
+    margin-left: 10px;
+}
+h3{
+    text-align: center;
+}
+input{
+text-align: center;
+}
+.Bing{
+    text-align:center;
+}
+.diva{
+    text-align: center;
+}
+tel{
+    padding ="10PX";
+}
+    
